@@ -8,7 +8,7 @@
 A menu-driven PowerShell troubleshooting and repair toolkit for Windows 10 and Windows 11, covering helpdesk, desktop support and advanced infrastructure workflows.
 
 **Current version:** 10.1  
-**Author:** Dewald Pretorius — L2 IT Support Engineer  
+**Maintainer:** IAmLegionVaal  
 **Project type:** Primary all-in-one Windows support toolkit
 
 ## Purpose
