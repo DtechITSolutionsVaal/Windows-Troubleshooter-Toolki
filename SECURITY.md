@@ -33,7 +33,7 @@ Some optional workflows may download utilities from Microsoft, GitHub or vendor 
 
 Do not publish credentials, tokens, customer information, internal hostnames or sensitive diagnostic output in a public issue.
 
-Send a concise description to `dewaldp84@gmail.com`. Include the affected function, Windows version, reproduction steps and only the minimum diagnostic detail required to investigate safely.
+Use GitHub's private vulnerability-reporting feature where available, or contact the repository owner through an established private channel. Include only the minimum information required to investigate safely.
 
 ## Disclaimer
 
